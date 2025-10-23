@@ -24,9 +24,8 @@ Mis proyectos son un reflejo de mi enfoque en la solución de problemas y la apl
 
 | Repositorio | Descripción | Habilidades Demostradas |
 | :--- | :--- | :--- |
-| **[ProyectoEDD-Final]** | Implementación y manejo de estructuras de datos complejas para optimización de procesos. | Algoritmos, Estructuras de Datos Avanzadas, **Java** |
-| **[Aseguradora]** | Sistema completo para la gestión de pólizas y clientes, demostrando integración Backend-DB. | Desarrollo Full-Stack, Conexión a DB (**PostgreSQL/Supabase**), Lógica de Negocio |
-| *(Tercer Proyecto)* | *Aquí puedes añadir un futuro proyecto o uno de menor tamaño que te guste.* | *Tecnologías específicas / Enfoque de la solución.* |
+| **[ProyectoEDD-Final](https://github.com/Bryan-Quitto/ProyectoEDD-Final)** | Implementación y manejo de estructuras de datos complejas para optimización de procesos. | Algoritmos, Estructuras de Datos Avanzadas, **Java** |
+| **[Aseguradora](https://github.com/Bryan-Quitto/Aseguradora)** | Sistema completo para la gestión de pólizas y clientes, demostrando integración Backend-DB. | Desarrollo Full-Stack, Conexión a DB (**PostgreSQL/Supabase**), Lógica de Negocio |
 
 ***👉 Puedes ver más de mi trabajo en mis [otros repositorios](https://github.com/Bryan-Quitto?tab=repositories).***
 
@@ -48,5 +47,5 @@ Mi meta inmediata es desarrollar un proyecto Full-Stack profesional utilizando *
 ## 📍 Contacto
 
 * **Ubicación:** Ambato, Ecuador.
+* **Correo Electrónico:** bryanleninqn@gmail.com
 * **Perfil de GitHub:** [@Bryan-Quitto](https://github.com/Bryan-Quitto)
-* *Si creas un LinkedIn, puedes añadirlo aquí:* **LinkedIn:** [Enlace a tu perfil profesional]
