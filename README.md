@@ -52,5 +52,5 @@ Mi meta inmediata es desarrollar un proyecto Full-Stack profesional utilizando *
 
 ---
 <p align="center">
-  Hecho con ❤️ y código por Bryan Quitto. © 2025 | Estudiante de Ingeniería de Software.
+  Bryan Quitto/Gemini © 2025 | Estudiante de Ingeniería de Software.
 </p>
