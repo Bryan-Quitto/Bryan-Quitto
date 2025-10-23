@@ -50,7 +50,6 @@ Mi meta inmediata es desarrollar un proyecto Full-Stack profesional utilizando *
 * **Correo Electrónico:** bryanleninqn@gmail.com
 * **Perfil de GitHub:** [@Bryan-Quitto](https://github.com/Bryan-Quitto)
 
----
 ***<footer>**
 <p align="center">
   Bryan Quitto/Gemini © 2025 | Estudiante de Ingeniería de Software.
