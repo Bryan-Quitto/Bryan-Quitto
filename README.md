@@ -18,7 +18,7 @@ Diseño soluciones modernas utilizando tecnologías estándar de la industria:
 | **Frontend** | **React**, TypeScript, Tailwind CSS, Blazor Server |
 | **Datos & Nube** | **PostgreSQL**, Supabase, SQL Server, Docker |
 | **Integraciones** | **Facturación Electrónica (SRI Ecuador)**, Firmas Digitales (XAdES), APIs RESTful |
-| **Idiomas** | Español (Nativo) | Inglés (B2) |
+| **Idiomas** | Español (Nativo) - Inglés (B2) |
 
 ---
 
