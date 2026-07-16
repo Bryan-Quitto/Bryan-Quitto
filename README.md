@@ -1,8 +1,8 @@
-# Hola, soy Bryan Quitto 👋
+# Hola, soy Bryan Quitto 
 
 ### Desarrollador Full-Stack | .NET & React Specialist | Arquitectura de Software
 
-Soy un desarrollador de software enfocado en construir **Sistemas de Gestión Empresarial (ERP/CRM)** robustos y escalables. Me especializo en combinar la potencia de **.NET 8** en el backend con la interactividad de **React** en el frontend para entregar productos de alto valor.
+Soy un desarrollador de software enfocado en construir **Sistemas de Gestión Empresarial (ERP/CRM)** robustos y escalables. Me especializo en combinar la potencia de **.NET 10** en el backend con la interactividad de **React** en el frontend para entregar productos de alto valor.
 
 Mi enfoque se basa en la **eficiencia y la arquitectura limpia**, utilizando metodologías ágiles y herramientas de IA avanzadas para acelerar el desarrollo sin comprometer la calidad técnica ni la seguridad.
 
